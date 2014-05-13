@@ -29,3 +29,309 @@ body {
     color: #000;
     padding: 0.2em 0;
 }
+
+.container1 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container1 p {
+    margin: 10px auto;
+    text-align: center;
+}
+
+.example1 {
+    margin: 10px auto;
+    width: 400px;
+    height: 200px;
+    background: blue;
+}
+
+.button1 {
+    margin: 10px auto;   
+    background: rgb(92, 228,222);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container2 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container2 p {
+    margin: 10px auto;
+    text-align: center;
+}
+
+.example2 {
+    margin: 10px auto;
+    width: 400px;
+    height: 200px;
+    background: red;
+    font-size: 50px;
+}
+    
+.button2 {
+    margin: 10px auto; 
+    background: rgb(150, 90, 50);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container3 {
+    width: 100%;
+    height: 600px;
+    border: solid; color: black;
+}
+
+.container3 p {
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    top: 140px;
+}
+
+.example3 {
+    margin: 10px auto;
+    position: relative;
+    top: 80px;
+    width: 300px;
+    height: 300px;
+    background: black;
+    font-size: 50px;
+}
+    
+.button3 {
+    margin: 10px auto; 
+    position: relative;
+    top: 140px;
+    background: rgb(133, 9, 44);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container4 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container4 p {
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+    
+}
+
+.example4 {
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.example4 ul {
+    font-family: fantasy;
+    font-weight: bolder;
+    color: red;
+    list-style-type: none;
+}
+
+.button4 {
+    margin: 10px auto; 
+    position: relative;
+    bottom: 55px;
+    background: rgb(217, 194, 50);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container5 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container5 p {
+    position: relative;
+    top: 60px;
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    
+}
+
+.example5 {
+    margin: 10px auto;
+    position: relative;
+    top: 30px;
+    width: 400px;
+    height: 200px;
+    background: #00FFFF;
+    font-size: 50px;
+}
+
+.button5 {
+    margin: 10px auto; 
+    position: relative;
+    top: 50px;  
+    background: rgb(217, 50, 214);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container6 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container6 p {
+    position: relative;
+    top: 60px;
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    
+}
+
+.example6 {
+    margin: 10px auto;
+    position: relative;
+    top: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: #006633;
+    font-size: 50px;
+}
+
+.button6 {
+    margin: 10px auto; 
+    position: relative;
+    top: 50px;  
+    background: rgb(20, 16, 20);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+.container7 {
+    width: 100%;
+    height: 400px;
+    border: solid; color: black;
+}
+
+.container7 p {
+    position: relative;
+    top: 80px;
+    margin: 10px auto;
+    text-align: center;
+    position: relative;
+    
+}
+
+.button7 {
+    margin: 10px auto; 
+    position: relative;
+    top: 50px;  
+    background-image: url(http://www.bringbackthecranes.org/images/icons/Facebook.jpg);
+    text-align: center;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Helvetica;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    line-height: 50px;
+    padding: 15px;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: inset -1px -3px 6px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
