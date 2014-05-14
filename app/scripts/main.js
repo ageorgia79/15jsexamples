@@ -64,3 +64,8 @@ $(".button8").click(function() {
   $(".example8 p").show( "slow");
 });
 
+
+$(".button9").click(function() {
+  $(".example9").hide(5000);
+});
+
