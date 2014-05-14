@@ -2,11 +2,15 @@ $(".button1").click(function(){
  $(".example1").css("background","yellow");
  });
 
+
+
 $(function () {
   $(".button2").click(function () {
     $("<p>Awesome</p>").appendTo(".example2");
   });
 });
+
+
 
 $(".button3").click(function() {
   $(".example3").animate({
@@ -18,9 +22,13 @@ $(".button3").click(function() {
   });
 });
 
+
+
 $(".button4").click(function(){
   $(".example4 ul").css("color","blue");
 });
+
+
 
 $(".button5").click(function() {
   $(".example5").animate(
@@ -32,6 +40,8 @@ $(".button5").click(function() {
     });
 });
 
+
+
 $( ".button6" ).click(function() {
   $( ".example6" ).animate({
     width: "70%",
@@ -42,7 +52,15 @@ $( ".button6" ).click(function() {
   }, 4000 );
 });
 
+
+
 $(".button7").click(function() {
   window.location = 'https://www.facebook.com' + this.id;
+});
+
+
+
+$(".button8").click(function() {
+  $(".example8 p").show( "slow");
 });
 
